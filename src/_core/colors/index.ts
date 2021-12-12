@@ -1,0 +1,6 @@
+export const CorotosGrey = "#424242"
+export const CorotosWhite = "#FFF"
+export const CorotosBackgroundColor = "#1e1e1e"
+export const CorotosLightGrey = "#9f9f9f"
+export const CorotosLightGrey3030 = "#303030"
+export const CorotosLightBlue = "#839fd1"
